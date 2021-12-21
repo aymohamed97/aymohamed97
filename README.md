@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **learning React**
 
-- 👯 I’m looking to collaborate on **get involved in Web3**
+- 👯 I’m looking to collaborate and **get involved in Web3**
 
 - 💬 Ask me about **my bootcamp developer experience.**
 
